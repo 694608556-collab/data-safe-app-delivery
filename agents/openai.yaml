@@ -1,0 +1,4 @@
+interface:
+  display_name: "保护数据的跨端应用交付"
+  short_description: "从已有项目接手续作、定位性能问题到跨端验证和安装交付，保留数据与证据"
+  default_prompt: "请使用 $data-safe-app-delivery 接续这个应用，先核对并保护已有工作和正式数据，再完成本次修复、验证和交付。"
